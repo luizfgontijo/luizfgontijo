@@ -56,7 +56,7 @@ Minhas habilidades incluem programação em C e Javascript, além de trabalhar c
 - :man_student: &nbsp; Sou estudante de Engenharia de Software.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou flamenguista! <br />
-- :basketball: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
+- :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
 - :airplane: &nbsp; Já conheci 5 continentes!Adoro viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de praticar esportes nas horas vagas.<br />
 - :dog: &nbsp; Meus pets são duas cadelas (Mila e Filó).<br />
