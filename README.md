@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/luiz_gontijoo/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/luiz-gontijo-081a272b5/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/luizfgontijo/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://calendly.com/luizfgontijo/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
