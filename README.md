@@ -32,14 +32,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>luizfgontijo</code>, tenho XXX anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de XXX Análise e Desenvolvimento de Sistemas da <a href="https://www.pucminas.br/" target="_blank">PUC MINAS</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>luizfgontijo</code>, tenho 18 anos, moro em BH e sou Dev. Atualmente estou no 1° período de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC MINAS</a></i>👨🏻‍💻<br />
 </div>
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, Java e Javascript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C, pela contruções de aplicações Web em JavaScript. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
 </div>
 
 -----
@@ -53,17 +53,15 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
+- :man_student: &nbsp; Sou estudante de Engenharia de Software.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
-- :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
-- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
+- :soccer:&nbsp; Sou flamenguista! <br />
+- :basketball: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
+- :airplane: &nbsp; Já conheci 5 continentes!Adoro viajar e conhecer novos lugares.<br />
+- :video_game: &nbsp; Gosto de praticar esportes nas horas vagas.<br />
+- :dog: &nbsp; Meus pets são duas cadelas (Mila e Filó).<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lfgsoares05@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/luizfgontijo/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
