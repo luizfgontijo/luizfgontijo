@@ -40,7 +40,17 @@
 </div>
 
 -----
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
 Minhas habilidades incluem programação em C, Python e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C, pela contruções de aplicações Web em JavaScript e pela criatividade em Python. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
