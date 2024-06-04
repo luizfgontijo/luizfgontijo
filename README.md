@@ -39,7 +39,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C, pela contruções de aplicações Web em JavaScript. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
+Minhas habilidades incluem programação em C, Python e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C, pela contruções de aplicações Web em JavaScript e pela criatividade em Python. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
 </div>
 
 -----
