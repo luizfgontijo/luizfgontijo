@@ -8,6 +8,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luiz!;" />
 </h1>
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizfgontijo.luizfgontijo" />
 
 <div align="center">
 <table>
@@ -66,7 +67,7 @@ Minhas habilidades incluem programação em C, Python e Javascript, além de tra
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lfgsoares05@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/luizfgontijo/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizfgontijo.luizfgontijo" />
+
 </p>
 </div>
 </div>
