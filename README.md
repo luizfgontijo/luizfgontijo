@@ -44,7 +44,7 @@
 <hr/>
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, Python e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C, pela contruções de aplicações Web em JavaScript e pela criatividade em Python. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
+Minhas habilidades incluem programação em Java,C, Python, Html, Css e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C e Java, pela contruções de aplicações Web em JavaScript e pela criatividade em Python. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
 </div>
 
 -----
@@ -64,10 +64,7 @@ Minhas habilidades incluem programação em C, Python e Javascript, além de tra
 - :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
 - :airplane: &nbsp; Já conheci 5 continentes!Adoro viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de praticar esportes nas horas vagas.<br />
-- :dog: &nbsp; Meus pets são duas cadelas (Mila e Filó).<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lfgsoares05@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/luizfgontijo/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 
 </p>
 </div>
