@@ -180,6 +180,11 @@ Minhas habilidades incluem programação em Java,C, Python, Html, Css e Javascri
 <td>
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=bu3reuntcu19i5wozn17kmek8&count=10"/>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
 
 -----
