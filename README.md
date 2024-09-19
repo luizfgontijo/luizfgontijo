@@ -103,15 +103,6 @@ Minhas habilidades incluem programação em Java,C, Python, Html, Css e Javascri
 -----
 
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfgontijo&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfgontijo&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfgontijo&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizfgontijo&theme=github_dark"/>
-</div>
-
------
 <div align="center">
 <table>
 <tr>
@@ -160,16 +151,14 @@ Minhas habilidades incluem programação em Java,C, Python, Html, Css e Javascri
 </tr> 
 </table>
 </div>
-
 </div>
-
 
 
 <div>
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/spotify.gif?raw=true"/> Luiz's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bu3reuntcu19i5wozn17kmek8" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
