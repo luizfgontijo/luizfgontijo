@@ -28,7 +28,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>luizfgontijo</code>, tenho 18 anos, moro em BH e sou Dev. Atualmente estou no 2° período de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC MINAS</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>luizfgontijo</code>, tenho 19 anos, moro em BH e sou Dev. </i>👨🏻‍💻<br />
 </div>
 <hr/>
 
