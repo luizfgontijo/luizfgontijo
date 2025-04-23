@@ -30,9 +30,6 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>luizfgontijo</code>, tenho 19 anos, moro em BH e sou Dev. </i>👨🏻‍💻<br />
 </div>
-<hr/>
-
-<hr/>
 
 -----
 
