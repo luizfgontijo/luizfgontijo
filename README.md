@@ -57,7 +57,7 @@ Minhas habilidades incluem programação em Java, C, Python, Html, Css e Javascr
 
 <div align="justify">
 <p>
-- :man_student: &nbsp; Sou estudante de Engenharia de Software.<br />
+- :man_student: &nbsp; Sou estudante de Sistemas de informação na UFMG.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou flamenguista! <br />
 - :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
