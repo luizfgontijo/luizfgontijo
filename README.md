@@ -37,9 +37,9 @@
 <p>
 - :man_student: &nbsp; Sou estudante de Sistemas de informação na UFMG.<br />
 - :briefcase: &nbsp; Trabalho como Arquiteto de soluções em nuvem na ForceOne.<br />
-- :soccer:&nbsp; Sou flamenguista! <br />
+- :soccer:&nbsp;  Sou flamenguista! <br />
 - :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
-- :airplane: &nbsp; Já conheci 5 continentes!Adoro viajar e conhecer novos lugares.<br />
+- :airplane: &nbsp; Já conheci 5 continentes!<br />
 - :video_game: &nbsp; Gosto de praticar esportes nas horas vagas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lfgsoares05@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 
