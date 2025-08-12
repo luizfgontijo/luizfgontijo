@@ -38,7 +38,7 @@
 <div align="justify">
 <p>
 - :man_student: &nbsp; Sou estudante de Sistemas de informação na UFMG.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
+- :briefcase: &nbsp; Trabalho como Arquiteto de soluções em nuvem na ForceOne.<br />
 - :soccer:&nbsp; Sou flamenguista! <br />
 - :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
 - :airplane: &nbsp; Já conheci 5 continentes!Adoro viajar e conhecer novos lugares.<br />
